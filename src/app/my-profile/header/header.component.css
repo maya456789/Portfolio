@@ -1,0 +1,20 @@
+
+.navbar-nav {
+  margin-left: auto;
+
+}
+li,a{
+  padding-left: 15px;
+}
+
+.center{
+  padding: 50px;
+  text-align: center;
+
+  color: white;
+  background-image: url('../.././../assets/images/intro.jpg');
+
+
+
+
+}
