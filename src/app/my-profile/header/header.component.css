@@ -14,7 +14,12 @@ li,a{
   color: white;
   background-image: url('../.././../assets/images/intro.jpg');
 
+}
 
+img{
+  transition: all 0.3s;
+}
 
-
+img:hover {
+  transform: scale(1.15);
 }
