@@ -1,0 +1,47 @@
+
+.navbar-nav {
+  margin-left: auto;
+
+}
+li,a{
+  padding-left: 15px;
+
+}
+
+.center{
+  padding: 50px;
+  text-align: center;
+
+  color: white;
+
+ position: relative;
+ left: 1rem;
+ background-repeat: no-repeat !important;
+ background-position: center !important;
+ background-size: cover !important;
+ height: 550px;
+ width: 100vw;
+ overflow: hidden;
+}
+
+.nav-link,.nav-link.active{
+  color:tomato;
+  font-weight:bolder;
+}
+
+.nav-link:hover,.nav-link.active{
+  color:#000;
+}
+
+.navbar-toggler{
+  border:1px solid yellow;
+  margin-right: 10px;
+}
+
+img{
+  transition: all 0.3s;
+}
+
+img:hover {
+  transform: scale(1.15);
+}
